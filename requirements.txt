@@ -1,5 +1,5 @@
 pip==9.0.1
 gunicorn
 Flask
-numpy
-scipy
+numpy==1.11.2
+scipy==0.18.1
