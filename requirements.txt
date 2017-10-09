@@ -2,4 +2,4 @@ pip==9.0.1
 gunicorn
 Flask
 numpy==1.11.2
-scipy==0.18.1
+scipy==0.18.1 --install-option='--no-cache-dir'
